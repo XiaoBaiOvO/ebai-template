@@ -12,7 +12,7 @@ export const routes = [
     },
     {
         path: "/admin",
-        element: <h1>Admin Page</h1>,
+        element: <h1>Admin</h1>,
         children: [
             {
                 index: true,
